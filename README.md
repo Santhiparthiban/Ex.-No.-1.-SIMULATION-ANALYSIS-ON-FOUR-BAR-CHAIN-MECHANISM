@@ -54,10 +54,12 @@
 
 ## Output:
 <img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/2574ac2e-00d6-4fbd-ac14-f0664f954a97" />
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/abfb9090-7bbe-4812-af6f-05f34c879ee8" />
 
 
 
-### Name:P.SANTHI
+
+### Name: SANTHI.P
 ### Register Number: 212225040377
 
 ## RESULT:
